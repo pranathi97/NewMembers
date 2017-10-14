@@ -12,3 +12,8 @@ Garrett Pierson
 gpierson@calpoly.edu
 3rd year Electrical Engineering
 Comms
+
+Colin VanDervoort
+cjvander@calpoly.edu
+3rd year Computer Engineering
+Computer Vision
