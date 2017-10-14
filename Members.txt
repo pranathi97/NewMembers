@@ -17,3 +17,8 @@ Colin VanDervoort
 cjvander@calpoly.edu
 3rd year Computer Engineering
 Computer Vision
+
+Pranathi Guntupalli
+sguntupa@calpoly.edu
+2nd Year Software Engineering
+Logging System
