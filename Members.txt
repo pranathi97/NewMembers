@@ -17,3 +17,8 @@ Colin VanDervoort
 cjvander@calpoly.edu
 3rd year Computer Engineering
 Computer Vision
+
+Dane Mortensen
+dhmorten@calpoly.edu
+3rd year Computer Science
+Comms
